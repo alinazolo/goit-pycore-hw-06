@@ -43,37 +43,6 @@ abc1234567
 123-456-7890
 ```
 
-
-## Usage Example
-
-```text
-Welcome to the assistant bot!
-Enter a command: hello
-How can I help you?
-
-Enter a command: add John 1234567890
-Contact added.
-
-Enter a command: phone John
-Contact name: John, phones: 1234567890
-
-Enter a command: add John 0987654321
-Contact added.
-
-Enter a command: all
-Contact name: John, phones: 1234567890; 0987654321
-
-Enter a command: change John 1234567890 1112223333
-Contact updated.
-
-Enter a command: phone John
-Contact name: John, phones: 1112223333; 0987654321
-
-Enter a command: delete John
-Contact deleted.
-
-```
-
 ## Technologies Used
 
 * Python 3
